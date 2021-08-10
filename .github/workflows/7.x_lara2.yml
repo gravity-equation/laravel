@@ -56,5 +56,5 @@
           with:
             app-name: 'lara2'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_0524c84951fc4ee8bd4bb0ce6c2c2cd1 }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_1aceb52d96424752b5275ba8d8fa1856 }}
             package: .
